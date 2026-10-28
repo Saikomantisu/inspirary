@@ -27,3 +27,9 @@ A visual inspiration platform for saving images into collections, similar to a m
 A free, open-source library of ambient gradient backgrounds built from layered CSS blend modes. Filter by styles such as mesh, nebula, prism, grain, and glass, then preview a background and copy it or its prompt.
 
 - **Tags:** images, backgrounds, gradients, css, open-source
+
+## [Backgrounds Supply](https://www.backgrounds.supply/)
+
+A library of handcrafted and AI-generated backgrounds, wallpapers, and gradients in collections such as smudge, ASCII, portals, and animated backgrounds, with new drops added monthly. Most of the library requires a one-time purchase that allows commercial use; a freebies page offers some free backgrounds.
+
+- **Tags:** images, backgrounds, gradients, wallpapers, animation

@@ -99,3 +99,27 @@ A React and Tailwind CSS library of animated components, UI primitives, and full
 A gallery of React UI effect libraries, such as border beams, thinking orbs, gooey, and liquid metal effects, each shared as a prompt to paste into an AI coding agent. The libraries are MIT licensed on npm, and a paid plan adds a studio for deeper customization.
 
 - **Tags:** components, react, animation, ai, open-source
+
+## [Navbar Gallery](https://www.navbar.gallery/)
+
+A gallery dedicated to website navigation bars, with types such as sticky headers, dropdowns, mega menus, sidebars, search bars, announcement bars, and breadcrumbs. Each entry links to the live site, and the blog explains navigation patterns.
+
+- **Tags:** components, navigation, headers, menus
+
+## [Arc UI](https://uiarc.dev/)
+
+A library of animated React components and larger blocks, such as dashboards, charts, maps, and AI chat, built for AI coding agents. Install them with the shadcn CLI or the MCP server, or copy the source. A large set of components and blocks is free without an account, and a one-time purchase unlocks the rest.
+
+- **Tags:** components, react, shadcn, animation, blocks, ai
+
+## [beUI](https://beui.dev/)
+
+An MIT-licensed library of animated components for React and React Native, including motion primitives, blocks, charts, and AI interface pieces. Install web components with the shadcn CLI and preview native ones in Expo Go. A paid Pro plan adds premium blocks and templates.
+
+- **Tags:** components, react, react-native, tailwind, shadcn, animation
+
+## [affectUI](https://www.affectui.com/)
+
+A library of React components, app screens, and blocks for AI products and SaaS, such as agent plans, approval cards, and streamed answers. Each item is a single file with its styles included and no dependencies, installable with the shadcn CLI or through an MCP server. Some items are free and MIT licensed; a one-time purchase unlocks the rest.
+
+- **Tags:** components, react, shadcn, ai, saas

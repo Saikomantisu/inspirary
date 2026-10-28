@@ -15,3 +15,9 @@ A design reference library of screens and user flows from real mobile and web ap
 A searchable library of screens and user flows from real web and iOS products, useful for comparing how apps handle specific pages and interactions. Free access shows only a small part of the library and limits searches; see its [pricing page](https://refero.design/pricing) for plan details.
 
 - **Tags:** apps, web, ios, mobile, user-flows
+
+## [60fps](https://60fps.design/)
+
+A library of short clips showing animations and interactions from real iOS and web apps. Filter by gesture, pattern, effect, and element, or browse by app. It's free to explore; a Pro plan unlocks every filter, storyboards, and ready-to-use snippets.
+
+- **Tags:** apps, animation, interactions, ios, web
