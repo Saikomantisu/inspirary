@@ -1,6 +1,8 @@
-# Design Inspire
+# Inspirary
 
-A curated collection of sites that help developers find design inspiration for websites, apps, and UI patterns.
+A curated collection of design inspiration and resources for developers, from website and app galleries to component libraries, fonts, icons, and images.
+
+_Previously named design-inspire._
 
 ## Browse the collection
 
