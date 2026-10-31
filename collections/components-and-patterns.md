@@ -76,6 +76,12 @@ A large collection of shadcn/ui blocks, components, templates, and dashboard lay
 
 - **Tags:** components, shadcn, react, blocks, templates, figma
 
+## [shadcn/studio](https://shadcnstudio.com/)
+
+A library of shadcn/ui components and blocks for marketing pages, dashboards, and e-commerce, with templates and a theme generator. Copy code or install it with the shadcn CLI. A free tier is available, and full access requires a paid subscription.
+
+- **Tags:** components, shadcn, react, blocks, templates, dashboards
+
 ## [Forge UI](https://forgeui.in/)
 
 A library of animated React components, blocks, and full-page templates built for shadcn/ui and Tailwind CSS, using Motion and GSAP. Copy and paste them into a project. Some content is free, and a one-time purchase unlocks premium components and templates.
