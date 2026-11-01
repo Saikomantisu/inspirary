@@ -33,3 +33,9 @@ A free, open-source library of ambient gradient backgrounds built from layered C
 A library of handcrafted and AI-generated backgrounds, wallpapers, and gradients in collections such as smudge, ASCII, portals, and animated backgrounds, with new drops added monthly. Most of the library requires a one-time purchase that allows commercial use; a freebies page offers some free backgrounds.
 
 - **Tags:** images, backgrounds, gradients, wallpapers, animation
+
+## [gradients.sh](https://gradients.sh/)
+
+A library of animated gradient backgrounds and UI pieces for React, rendered with WebGPU or WebGL2 and themed through your CSS variables. Free components, such as mesh, aurora, grain, and gradient text, are MIT licensed and install as source code with the shadcn CLI; Pro effects and most of the presets require a paid account. Backgrounds can also be exported as PNG or MP4, or added to plain HTML pages with an embed script.
+
+- **Tags:** images, backgrounds, gradients, animation, react
