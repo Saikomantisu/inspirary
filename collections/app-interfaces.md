@@ -21,3 +21,9 @@ A searchable library of screens and user flows from real web and iOS products, u
 A library of short clips showing animations and interactions from real iOS and web apps. Filter by gesture, pattern, effect, and element, or browse by app. It's free to explore; a Pro plan unlocks every filter, storyboards, and ready-to-use snippets.
 
 - **Tags:** apps, animation, interactions, ios, web
+
+## [Collect UI](https://collectui.com/)
+
+A gallery of user interface and website design inspiration, with a daily email featuring selected designs.
+
+- **Tags:** interfaces, websites, inspiration

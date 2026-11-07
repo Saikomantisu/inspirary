@@ -33,3 +33,33 @@ A gallery of animated websites shown as full-page video recordings, so you can s
 A frequently updated feed of design work from creators, covering web, branding, product, motion, illustration, 3D, and print. Sort by latest or featured to browse experiments such as UI cards, blur effects, and animations.
 
 - **Tags:** websites, inspiration, branding, motion, illustrations, 3d
+
+## [Curated](https://curated.design/)
+
+A gallery of real websites and page sections, organized by industry and style. Browse examples for visual inspiration; advanced filters and saved searches require a paid plan.
+
+- **Tags:** websites, sections, inspiration, layouts
+
+## [Recent](https://recent.design/)
+
+A gallery of design inspiration covering websites, interfaces, branding, motion, and illustration. It also has dedicated collections for launch videos, app screenshots, app icons, and OG images.
+
+- **Tags:** websites, inspiration, branding, motion, app-screens, launch-videos, og-images
+
+## [SEESAW](https://www.seesaw.website/)
+
+A gallery of hand-picked websites updated daily, with categories for industries and site types such as agencies, design tools, ecommerce, and portfolios.
+
+- **Tags:** websites, inspiration, portfolios, ecommerce
+
+## [Craftwork Inspiration](https://craftwork.design/inspiration/websites)
+
+A gallery of website designs organized by category, including agencies, web apps, portfolios, and ecommerce. Craftwork also offers inspiration collections for page sections, interfaces, branding, and OG images.
+
+- **Tags:** websites, sections, portfolios, branding, og-images
+
+## [Site of Sites](https://www.siteofsites.co/)
+
+A gallery of website designs with filters for industry, site type, visual style, and platform. Explore curated collections for themes such as grids and monochrome designs.
+
+- **Tags:** websites, portfolios, layouts, webflow, framer

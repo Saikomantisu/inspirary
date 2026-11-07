@@ -129,3 +129,9 @@ An MIT-licensed library of animated components for React and React Native, inclu
 A library of React components, app screens, and blocks for AI products and SaaS, such as agent plans, approval cards, and streamed answers. Each item is a single file with its styles included and no dependencies, installable with the shadcn CLI or through an MCP server. Some items are free and MIT licensed; a one-time purchase unlocks the rest.
 
 - **Tags:** components, react, shadcn, ai, saas
+
+## [Designeer](https://designeer.xyz/)
+
+A curated directory of design galleries, component libraries, design systems, and tools. Browse it to find interface references and resources for building products.
+
+- **Tags:** components, design-systems, inspiration, tools
