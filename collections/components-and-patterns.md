@@ -4,6 +4,12 @@ Focused galleries for individual website sections and UI patterns.
 
 [Back to the collection](../README.md)
 
+## [Ding](https://ding.yusufcengiz.dev/)
+
+A zero-dependency toast notification library with spring animations. New notifications morph the existing toast in place. Available for React, Svelte 5, and plain JavaScript.
+
+- **Tags:** components, notifications, animation, react, svelte, open-source
+
 ## [Kibo UI](https://www.kibo-ui.com/)
 
 A free, open-source shadcn/ui component registry with tools such as a color picker, image zoom, QR code generator, and file dropzone.
