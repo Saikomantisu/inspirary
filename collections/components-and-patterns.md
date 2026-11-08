@@ -4,6 +4,12 @@ Focused galleries for individual website sections and UI patterns.
 
 [Back to the collection](../README.md)
 
+## [Gauge UI](https://www.gauge-ui.dev/)
+
+A library of composable SVG gauge components for React, with a studio for building gauges and examples for dashboards and monitoring. Install the components with the shadcn CLI.
+
+- **Tags:** components, react, shadcn, dashboards, gauges
+
 ## [Elements](https://www.tryelements.dev/)
 
 A collection of full-stack shadcn/ui blocks for Next.js and TypeScript, including authentication, AI interfaces, file uploads, and loading indicators.
