@@ -4,6 +4,102 @@ Focused galleries for individual website sections and UI patterns.
 
 [Back to the collection](../README.md)
 
+## [Kibo UI](https://www.kibo-ui.com/)
+
+A free, open-source shadcn/ui component registry with tools such as a color picker, image zoom, QR code generator, and file dropzone.
+
+- **Tags:** components, react, shadcn, open-source
+
+## [Luxe](https://www.luxeui.com/)
+
+A collection of copy-and-paste interface components built with React, Tailwind CSS, Motion, and Radix UI.
+
+- **Tags:** components, react, tailwind, animation
+
+## [Float UI](https://floatui.com/)
+
+A free, open-source collection of responsive Tailwind CSS components and website templates to copy into projects.
+
+- **Tags:** components, tailwind, templates, open-source
+
+## [Ark UI](https://ark-ui.com/)
+
+A headless component library for React, Solid, Vue, and Svelte. Its unstyled controls provide interaction behavior and accessibility support for custom design systems.
+
+- **Tags:** components, react, vue, svelte, design-systems, accessibility
+
+## [CSS Buttons](https://cssbuttons.io/)
+
+A gallery of button designs with links to their code on Uiverse. Browse examples by appearance and copy the ones that fit a project.
+
+- **Tags:** components, buttons, css, inspiration
+
+## [Bencho](https://bencho.dev/)
+
+A collection of interactive React components and micro-interactions, including animated tabs, loaders, card stacks, and drag interactions.
+
+- **Tags:** components, react, animation, interactions
+
+## [Lightswind UI](https://lightswind.com/)
+
+A library of animated React components, UI blocks, and templates, including backgrounds and 3D effects. Some components are free and others require Pro access.
+
+- **Tags:** components, react, animation, backgrounds, blocks, templates
+
+## [Bits UI](https://bits-ui.com/)
+
+A headless component library for Svelte with unstyled controls for building custom interfaces and design systems.
+
+- **Tags:** components, svelte, design-systems, accessibility
+
+## [Avara UI](https://avaraui.com/)
+
+A free collection of interactive React components and blocks built with Tailwind CSS, GSAP, and Motion. Install them with the shadcn CLI.
+
+- **Tags:** components, react, tailwind, shadcn, animation, blocks
+
+## [Transitions.dev](https://transitions.dev/)
+
+A library of UI transitions with a component builder and tools for adding motion through AI agents. The site also offers paid Pro access.
+
+- **Tags:** components, animation, transitions, ai
+
+## [uipkge](https://uipkge.dev/)
+
+An open-source UI registry with components, blocks, charts, maps, and templates for React, Vue, Angular, and Svelte. Install components into a project using the shadcn workflow.
+
+- **Tags:** components, react, vue, svelte, shadcn, blocks, open-source
+
+## [coss ui](https://coss.com/ui)
+
+A component library built on Base UI, with controls such as dialogs, forms, navigation, and data display elements.
+
+- **Tags:** components, react, design-systems, forms, navigation
+
+## [MynaUI](https://mynaui.com/)
+
+A UI collection built with Tailwind CSS, shadcn/ui, and Radix UI, covering interface controls, marketing sections, application screens, and icons, with a Figma design system.
+
+- **Tags:** components, tailwind, shadcn, blocks, icons, figma
+
+## [Magic UI](https://magicui.design/)
+
+A library of free, open-source animated components and effects for React, built with Tailwind CSS and Motion. Paid blocks and templates are also available.
+
+- **Tags:** components, react, tailwind, animation, open-source, templates
+
+## [NeoBrutalism](https://neobrutalism.com/)
+
+A retro-style component library for React and Next.js, formerly called RetroUI. Install its open-source components with the shadcn CLI; paid blocks and templates are also available.
+
+- **Tags:** components, react, tailwind, shadcn, blocks, templates
+
+## [David UI](https://www.creative-tim.com/david-ui)
+
+Creative Tim's library of Tailwind CSS components, including buttons, navigation, forms, and cards. The components are free and open source; the site also offers page blocks and an AI page generator.
+
+- **Tags:** components, tailwind, open-source, blocks, ai
+
 ## [Gauge UI](https://www.gauge-ui.dev/)
 
 A library of composable SVG gauge components for React, with a studio for building gauges and examples for dashboards and monitoring. Install the components with the shadcn CLI.
