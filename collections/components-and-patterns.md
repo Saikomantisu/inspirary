@@ -4,6 +4,12 @@ Focused galleries for individual website sections and UI patterns.
 
 [Back to the collection](../README.md)
 
+## [Elements](https://www.tryelements.dev/)
+
+A collection of full-stack shadcn/ui blocks for Next.js and TypeScript, including authentication, AI interfaces, file uploads, and loading indicators.
+
+- **Tags:** components, shadcn, react, blocks, ai
+
 ## [Footer Design](https://www.footer.design/)
 
 A gallery dedicated to website footers, with categories for treatments such as large type, grids, cards, and animation.
