@@ -4,6 +4,12 @@ Focused galleries for individual website sections and UI patterns.
 
 [Back to the collection](../README.md)
 
+## [ReUI](https://reui.io/)
+
+A shadcn/ui registry of React components, blocks, icons, and templates built with Tailwind CSS. Install components with the shadcn CLI. Components are free, while blocks and icons require paid access.
+
+- **Tags:** components, react, tailwind, shadcn, blocks, icons, templates
+
 ## [Ding](https://ding.yusufcengiz.dev/)
 
 A zero-dependency toast notification library with spring animations. New notifications morph the existing toast in place. Available for React, Svelte 5, and plain JavaScript.
