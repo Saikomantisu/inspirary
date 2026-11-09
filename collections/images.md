@@ -4,6 +4,12 @@ Image galleries and tools for finding backgrounds, illustrations, and other visu
 
 [Back to the collection](../README.md)
 
+## [posts.design](https://posts.design/)
+
+A searchable gallery of social media posts from brands, with collections of headers and Open Graph images. Browse examples by post type, such as launches, announcements, and event promotions.
+
+- **Tags:** images, inspiration, social-media, branding, headers, og-images
+
 ## [Imageory](https://imageory.in/)
 
 A personal gallery of AI-generated images, such as landscapes, abstract art, and pixel backgrounds, each shown with the prompt used to create it. Browse by category or search by color, then copy a prompt to make your own variations.
