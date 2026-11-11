@@ -4,6 +4,12 @@ Focused galleries for individual website sections and UI patterns.
 
 [Back to the collection](../README.md)
 
+## [ObsidianUI](https://temp.obsidianui.dev/)
+
+An open-source React and Tailwind CSS component library featuring animation, cursor effects, scroll interactions, and backgrounds. Preview components and add their source to a project.
+
+- **Tags:** components, react, tailwind, animation, backgrounds, open-source
+
 ## [ReUI](https://reui.io/)
 
 A shadcn/ui registry of React components, blocks, icons, and templates built with Tailwind CSS. Install components with the shadcn CLI. Components are free, while blocks and icons require paid access.
