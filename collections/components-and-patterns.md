@@ -4,6 +4,18 @@ Focused galleries for individual website sections and UI patterns.
 
 [Back to the collection](../README.md)
 
+## [Ruixen UI](https://ruixen.com/)
+
+A React and Tailwind CSS library of shadcn components and marketing sections, including heroes, pricing, navigation, and text effects. Install components with the shadcn CLI. The open-source collection is free, and a paid Pro plan adds components and templates.
+
+- **Tags:** components, react, tailwind, shadcn, blocks, templates, open-source
+
+## [Pin UI](https://www.pinui.xyz/)
+
+An open-source library of animated React components inspired by Pinterest designs, with light and dark themes. Copy components into a project to adapt them.
+
+- **Tags:** components, react, animation, open-source, inspiration
+
 ## [ObsidianUI](https://temp.obsidianui.dev/)
 
 An open-source React and Tailwind CSS component library featuring animation, cursor effects, scroll interactions, and backgrounds. Preview components and add their source to a project.
