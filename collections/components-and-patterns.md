@@ -4,6 +4,12 @@ Focused galleries for individual website sections and UI patterns.
 
 [Back to the collection](../README.md)
 
+## [Vengeance UI](https://www.vengenceui.com/)
+
+An open-source library of animated React components for landing pages, including hover effects, tooltips, and scroll-driven layouts. Copy the code or install components with the shadcn CLI.
+
+- **Tags:** components, react, shadcn, animation, landing-pages, open-source
+
 ## [Ruixen UI](https://ruixen.com/)
 
 A React and Tailwind CSS library of shadcn components and marketing sections, including heroes, pricing, navigation, and text effects. Install components with the shadcn CLI. The open-source collection is free, and a paid Pro plan adds components and templates.
