@@ -279,3 +279,9 @@ A library of React components, app screens, and blocks for AI products and SaaS,
 A curated directory of design galleries, component libraries, design systems, and tools. Browse it to find interface references and resources for building products.
 
 - **Tags:** components, design-systems, inspiration, tools
+
+## [Layro](https://layro.dev/)
+
+A marketplace of React components with live previews, covering UI controls, page sections, and AI interfaces. Browse and install components directly or connect a coding agent via MCP. Components are free to install.
+
+- **Tags:** components, react, sections, ai, mcp
