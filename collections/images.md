@@ -4,6 +4,12 @@ Image galleries and tools for finding backgrounds, illustrations, and other visu
 
 [Back to the collection](../README.md)
 
+## [MotionVideo](https://motionvideo.xyz/)
+
+A searchable gallery of AI-made motion videos with the prompts behind them, useful for exploring motion design and creating variations. The site also offers a paid pack of motion design skills for coding agents.
+
+- **Tags:** images, motion, animation, videos, ai, prompts
+
 ## [Stick It Up](https://stickitupx.com/)
 
 A library of hand-drawn SVG stickers for websites and apps, with drag, tilt, and pop interactions. Install the package from npm and import the stickers you need.
