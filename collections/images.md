@@ -4,6 +4,12 @@ Image galleries and tools for finding backgrounds, illustrations, and other visu
 
 [Back to the collection](../README.md)
 
+## [Stick It Up](https://stickitupx.com/)
+
+A library of hand-drawn SVG stickers for websites and apps, with drag, tilt, and pop interactions. Install the package from npm and import the stickers you need.
+
+- **Tags:** images, illustrations, stickers, animation, open-source
+
 ## [posts.design](https://posts.design/)
 
 A searchable gallery of social media posts from brands, with collections of headers and Open Graph images. Browse examples by post type, such as launches, announcements, and event promotions.

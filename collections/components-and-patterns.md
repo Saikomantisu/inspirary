@@ -4,6 +4,12 @@ Focused galleries for individual website sections and UI patterns.
 
 [Back to the collection](../README.md)
 
+## [Nexvyn UI](https://ui.nexvyn.dev/)
+
+A React component library focused on polished interactions and motion, with live previews of controls and text effects.
+
+- **Tags:** components, react, animation, interactions
+
 ## [Vengeance UI](https://www.vengenceui.com/)
 
 An open-source library of animated React components for landing pages, including hover effects, tooltips, and scroll-driven layouts. Copy the code or install components with the shadcn CLI.
