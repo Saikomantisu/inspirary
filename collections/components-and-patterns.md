@@ -4,6 +4,12 @@ Focused galleries for individual website sections and UI patterns.
 
 [Back to the collection](../README.md)
 
+## [Opensource UI](https://opensourceui.in/)
+
+A free, open-source collection of React and Next.js components built with Tailwind CSS, including forms, widgets, and device mockups. Preview components and copy their TypeScript source into a project.
+
+- **Tags:** components, react, tailwind, open-source, mockups
+
 ## [Nexvyn UI](https://ui.nexvyn.dev/)
 
 A React component library focused on polished interactions and motion, with live previews of controls and text effects.
