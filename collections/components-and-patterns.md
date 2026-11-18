@@ -4,6 +4,12 @@ Focused galleries for individual website sections and UI patterns.
 
 [Back to the collection](../README.md)
 
+## [Oxygen UI](https://www.oxygenui.xyz/)
+
+An open-source React component library for Solana apps, with wallet, trading, chart, and transaction interfaces. Install components with the shadcn CLI.
+
+- **Tags:** components, react, shadcn, open-source, web3
+
 ## [Opensource UI](https://opensourceui.in/)
 
 A free, open-source collection of React and Next.js components built with Tailwind CSS, including forms, widgets, and device mockups. Preview components and copy their TypeScript source into a project.
